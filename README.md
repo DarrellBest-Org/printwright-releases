@@ -13,7 +13,7 @@ Download the newest from the [latest release](../../releases/latest). Check a do
 | Windows 10 or 11           | `Printwright-<version>-win-x64.exe`              |
 | Linux (x86-64)             | `Printwright-<version>-linux-x86_64.AppImage`    |
 
-The `.zip`, `.blockmap` and `latest*.yml` files are for the built-in updater; you don't need them.
+The `.zip` files, `latest.json` and `latest.json.sig` are for the built-in updater; you don't need them. The updater only installs releases signed with Printwright's key.
 
 ## Installing
 
